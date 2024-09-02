@@ -4,7 +4,7 @@
 
 📌 Scroll down to see my Pinned Repositories.
 
-📫 How to reach me: yasmin@example.com
+📫 How to reach me: yasminco123@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YasminCohen)
